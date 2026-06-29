@@ -1,0 +1,6 @@
+{
+  "name": "Style Hub",
+  "description": "Style Hub is your destination for trendy fashion, stylish accessories, and seasonal collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
