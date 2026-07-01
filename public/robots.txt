@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+sitemap:
+https://dummy-psi-five.versel.app/sitemap.xml
